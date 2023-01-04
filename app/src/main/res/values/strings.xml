@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calkulator</string>
+    <string name="Logo_text">Калькулятор</string>
+    <string name="hint_1">Введите первое число</string>
+    <string name="hint_2">Введите второе число</string>
+    <string name="button_text">Добавьте числа</string>
+
+</resources>
